@@ -9,7 +9,6 @@ Deface::Override.new(
         <%= link_to Spree.t(:add_details), "https://docs.google.com/viewerng/viewer?url=https://s3-eu-west-1.amazonaws.com/spreeimagesproduits/RIBGUIXMODEL.pdf", :class => 'button add_bt_details', target: "_blank" %>
       <% end %>
         <br>
-      <% end %>
     <% end %>
   }
 )
